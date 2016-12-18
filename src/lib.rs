@@ -1,3 +1,4 @@
+#![feature(stmt_expr_attributes)]
 #![deny(missing_docs)]
 
 //! A library for consistent and reliable error handling
